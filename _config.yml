@@ -4,9 +4,8 @@
 
 # Basic
 name:               "Massive Data Computing Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
-
+title:              "Massive Data Computing Lab at Kyungpook National University"
+description:        "The Massive Data Computing Lab is a data science research group at Kyungpook National University."
 
 # URL
 url:                http://kordinglab.com
@@ -34,7 +33,7 @@ nav:
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "lab teachings"
+  - name:           "courses"
     href:           "/presentations"
 
 # Sass
