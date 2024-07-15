@@ -5,7 +5,7 @@ permalink: /about/
 
 ![lee2](./images/lee2_together.png)  
 
-
+---
 
 ### Research Interests
 My research interests include the following:
@@ -17,11 +17,11 @@ My research interests include the following:
 
 ### Education
 
-##### Ph.D., Computer Science, KAIST, Jan. 2010
+###### Ph.D., Computer Science, KAIST, Jan. 2010
 - Thesis Topic: Efficient Filtering, Storing and Query Processing Techniques in
 RFID/USN Environments
 - Adviser: Professor Chin-Wan Chung ([http://islab.kaist.ac.kr/chungcw](http://islab.kaist.ac.kr/chungcw))
-##### B.S., Computer Science, KAIST, Feb. 2003 
+###### B.S., Computer Science, KAIST, Feb. 2003 
 
 ---
 
