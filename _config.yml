@@ -3,13 +3,12 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
-
+name:               "Massive Data Computing Lab"
+title:              "Massive Data Computing Lab at Kyungpook National University"
+description:        "The Massive Data Computing Lab is a data science research group at Kyungpook National University."
 
 # URL
-url:                http://kordinglab.com
+url:                http://massive-data-computing.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -28,13 +27,13 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
-  - name:           "people"
-    href:           "/people"
+ # - name:           "people"
+ #   href:           "/people"
   # - name:           "blog"
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "lab teachings"
+  - name:           "courses"
     href:           "/presentations"
 
 # Sass
