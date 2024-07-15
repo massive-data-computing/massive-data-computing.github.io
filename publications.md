@@ -4,18 +4,8 @@ permalink: /publication/
 ---
 
 ### Journals
-
-
-_Data-driven exclusion criteria for instrumental variable studies_<br>
-Tony Liu, Patrick Lawlor, Lyle Ungar, Konrad Kording<br>
-Conference on Causal Learning and Reasoning, 2022 ([Article](https://proceedings.mlr.press/v177/liu22a/liu22a.pdf))
-
-_Neural Networks as Paths through the Space of Representations_<br>
-Richard D Lange, Jordan Matelsky, Xinyue Wang, Devin Kwok, David S Rolnick, Konrad P Kording<br>
-arXiv preprint arXiv:2206.10999, 2022 ([Article](https://arxiv.org/pdf/2206.10999))
-
 _XTRON: An XML Data Management System using Relational Databases_<br> 
-Jun-Ki Min, Chun-Hee Lee and Chin-Wan Chung<br>
+Jun-Ki Min, **Chun-Hee Lee** and Chin-Wan Chung<br>
 Information and Software Technology (Elsevier), vol. 50, no. 5, pp. 462-479, April 2008 (SCI/E).
 
 - Jun-Ki Min, Chun-Hee Lee and Chin-Wan Chung, "AMID: Approximation of Multi-measured Data Using SVD," Information Sciences (Elsevier), vol. 179, no.16, pp.2833-2850, July 2009 (SCI/E).
