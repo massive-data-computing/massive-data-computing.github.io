@@ -10,7 +10,7 @@ Journal of Parallel and Distributed Computing, vol. 190, August 2024 (SCI/E)
 
 _A data-driven agent-based simulation of the public bicycle-sharing system in Sejong city_<br>
 Jang Won Bae, _Chun-Hee Lee_, Jeong-Woo Lee and Seon Han Choi<br>
-Simulation Modelling Practice and Theory, vol. 130, January 2024
+Simulation Modelling Practice and Theory, vol. 130, January 2024 (SCI/E)
 
 _GOMS: Large-scale ontology management system using graph databases_<br>
 _Chun-Hee Lee_ and Dong-oh Kang<br>
