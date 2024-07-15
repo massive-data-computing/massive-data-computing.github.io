@@ -33,8 +33,8 @@ nav:
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-   - name:           "courses"
-     href:           "/presentations"
+#   - name:           "courses"
+#     href:           "/presentations"
 #  - name:           "courses"
 #    href:           "/courses"
 
