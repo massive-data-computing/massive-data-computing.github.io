@@ -47,3 +47,10 @@ RFID/USN Environments
 ##### Feb. 2010 - Jan. 2011: Postdoctoral researcher, KAIST
 - Advisor: Professor Chin-Wan Chung (Homepage: [http://islab.kaist.ac.kr/chungcw]([http://islab.kaist.ac.kr/chungcw))
 - Research Topic: Graph data indexing
+
+---
+
+### Awards
+#####  Outstanding Ph.D. Dissertation Award (우수논문상)
+- Awarder: Department of Computer Science, KAIST
+- Date: Jan. 2010
