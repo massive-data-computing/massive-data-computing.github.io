@@ -35,8 +35,8 @@ nav:
 #     href:           "/abstracts"
 #  - name:           "courses"
 #    href:           "/presentations"
-#  - name:           "courses"
-#    href:           "/courses"
+  - name:           "courses"
+    href:           "/courses"
 
 # Sass
 sass:
