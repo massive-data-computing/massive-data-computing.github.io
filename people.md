@@ -9,7 +9,7 @@ permalink: /people/
 <table>
   <tr>
     <td align="center">
-      <img src="./images/guihyun.jpg" width="200"><br>
+      <img src="../images/people/guihyun.jpg" width="200"><br>
       <b>Gui-Hyun Baik (백귀현, Ph.D. Student (Part Time))</b>
     </td>
     <td align="center">
