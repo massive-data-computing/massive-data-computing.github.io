@@ -4,6 +4,18 @@ permalink: /publication/
 ---
 
 ### Journals
+_Integrated Analysis for Citation and Semantic Structures in a Citation Network_<br>
+JongHun Kim and _Chun-Hee Lee_  <br>
+To appear in The Journal of the Korea Contents Association (한국콘텐츠학회 논문지),  (KCI)
+
+_Integrated Analysis for Knowledge Graph Embedding and Text Embedding_<br>
+_Chun-Hee Lee_  <br>
+The Transactions of the Korea Information Processing Society (TKIPS, 정보처리학회 논문지), vol.15, no.1, pp.28-36, January 2026 (KCI)
+
+_QLite: Lightweight Knowledge Graph Embedding Framework With Query Processing_<br>
+_Chun-Hee Lee_ and Dong-oh Kang<br>
+IEEE Access, December 2025 (SCI/E)
+
 _Fast knowledge graph completion using graphics processing units_<br>
 _Chun-Hee Lee_, Dong-oh Kang and Hwa Jeon Song<br>
 Journal of Parallel and Distributed Computing, vol. 190, August 2024 (SCI/E)
